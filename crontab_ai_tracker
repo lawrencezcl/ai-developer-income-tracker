@@ -1,0 +1,5 @@
+# AI开发者盈利案例追踪 - 每6小时运行
+# 运行时间: 0,6,12,18 点 (UTC)
+# 对应中国时间: 8,14,20,2 点
+
+0 */6 * * * /root/clawd/ai-developer-income-tracker/run_tracker.sh >> /root/clawd/ai-developer-income-tracker/cron.log 2>&1

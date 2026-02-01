@@ -1,0 +1,766 @@
+{
+  "cases": [
+    {
+      "source": "Twitter/X",
+      "author": "@levelsio",
+      "title": "Building AI tools with $0 marketing spend",
+      "income": 85000,
+      "period": "monthly",
+      "business_model": "SaaS subscription",
+      "tech_stack": "Next.js + OpenAI API",
+      "time_to_revenue": "3 months",
+      "key_factors": [
+        "SEO",
+        "Product Hunt launch",
+        "Twitter audience"
+      ],
+      "url": "https://twitter.com/levelsio/status/xxx",
+      "date": "2024-01-15"
+    },
+    {
+      "source": "Indie Hackers",
+      "author": "Sarah Chen",
+      "title": "AI writing assistant that makes $12K/mo",
+      "income": 12000,
+      "period": "monthly",
+      "business_model": "Freemium + Premium",
+      "tech_stack": "Python + LangChain + Stripe",
+      "time_to_revenue": "2 months",
+      "key_factors": [
+        "Niche focus",
+        "Reddit marketing",
+        "Product led growth"
+      ],
+      "url": "https://www.indiehackers.com/post/xxx",
+      "date": "2024-01-20"
+    },
+    {
+      "source": "Product Hunt",
+      "author": "Mike Zhang",
+      "title": "AI code reviewer - $25K MRR in 4 months",
+      "income": 25000,
+      "period": "monthly",
+      "business_model": "SaaS subscription",
+      "tech_stack": "TypeScript + Claude API + Vercel",
+      "time_to_revenue": "4 months",
+      "key_factors": [
+        "Developer tool focus",
+        "Hacker News launch",
+        "Affiliate program"
+      ],
+      "url": "https://producthunt.com/products/xxx",
+      "date": "2024-01-25"
+    },
+    {
+      "source": "Newsletter",
+      "author": "Alex Rivera",
+      "title": "AI image generator prompts marketplace",
+      "income": 18000,
+      "period": "monthly",
+      "business_model": "Marketplace commission",
+      "tech_stack": "React + Midjourney API + Supabase",
+      "time_to_revenue": "5 months",
+      "key_factors": [
+        "Creator economy",
+        "Community building",
+        "Viral loops"
+      ],
+      "url": "https://newsletter.example.com/ai-prompts",
+      "date": "2024-01-28"
+    },
+    {
+      "source": "YouTube",
+      "author": "Dev Jake",
+      "title": "From $0 to $50K with AI coding course",
+      "income": 50000,
+      "period": "monthly",
+      "business_model": "Digital products",
+      "tech_stack": "Video production + Teachable",
+      "time_to_revenue": "6 months",
+      "key_factors": [
+        "YouTube content",
+        "Course platform",
+        "Email list"
+      ],
+      "url": "https://youtube.com/@devjake",
+      "date": "2024-02-01"
+    },
+    {
+      "source": "GitHub",
+      "author": "Emma Watson",
+      "title": "Open source AI agent framework - $15K/mo via enterprise",
+      "income": 15000,
+      "period": "monthly",
+      "business_model": "Open source + Enterprise support",
+      "tech_stack": "Python + PyTorch + Docker",
+      "time_to_revenue": "8 months",
+      "key_factors": [
+        "Open source strategy",
+        "Twitter presence",
+        "Conference talks"
+      ],
+      "url": "https://github.com/emmajane/ai-agent",
+      "date": "2024-02-05"
+    }
+  ],
+  "patterns": {
+    "business_models": {
+      "SaaS subscription": [
+        {
+          "source": "Twitter/X",
+          "author": "@levelsio",
+          "title": "Building AI tools with $0 marketing spend",
+          "income": 85000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "Next.js + OpenAI API",
+          "time_to_revenue": "3 months",
+          "key_factors": [
+            "SEO",
+            "Product Hunt launch",
+            "Twitter audience"
+          ],
+          "url": "https://twitter.com/levelsio/status/xxx",
+          "date": "2024-01-15"
+        },
+        {
+          "source": "Product Hunt",
+          "author": "Mike Zhang",
+          "title": "AI code reviewer - $25K MRR in 4 months",
+          "income": 25000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "TypeScript + Claude API + Vercel",
+          "time_to_revenue": "4 months",
+          "key_factors": [
+            "Developer tool focus",
+            "Hacker News launch",
+            "Affiliate program"
+          ],
+          "url": "https://producthunt.com/products/xxx",
+          "date": "2024-01-25"
+        }
+      ],
+      "Freemium + Premium": [
+        {
+          "source": "Indie Hackers",
+          "author": "Sarah Chen",
+          "title": "AI writing assistant that makes $12K/mo",
+          "income": 12000,
+          "period": "monthly",
+          "business_model": "Freemium + Premium",
+          "tech_stack": "Python + LangChain + Stripe",
+          "time_to_revenue": "2 months",
+          "key_factors": [
+            "Niche focus",
+            "Reddit marketing",
+            "Product led growth"
+          ],
+          "url": "https://www.indiehackers.com/post/xxx",
+          "date": "2024-01-20"
+        }
+      ],
+      "Marketplace commission": [
+        {
+          "source": "Newsletter",
+          "author": "Alex Rivera",
+          "title": "AI image generator prompts marketplace",
+          "income": 18000,
+          "period": "monthly",
+          "business_model": "Marketplace commission",
+          "tech_stack": "React + Midjourney API + Supabase",
+          "time_to_revenue": "5 months",
+          "key_factors": [
+            "Creator economy",
+            "Community building",
+            "Viral loops"
+          ],
+          "url": "https://newsletter.example.com/ai-prompts",
+          "date": "2024-01-28"
+        }
+      ],
+      "Digital products": [
+        {
+          "source": "YouTube",
+          "author": "Dev Jake",
+          "title": "From $0 to $50K with AI coding course",
+          "income": 50000,
+          "period": "monthly",
+          "business_model": "Digital products",
+          "tech_stack": "Video production + Teachable",
+          "time_to_revenue": "6 months",
+          "key_factors": [
+            "YouTube content",
+            "Course platform",
+            "Email list"
+          ],
+          "url": "https://youtube.com/@devjake",
+          "date": "2024-02-01"
+        }
+      ],
+      "Open source + Enterprise support": [
+        {
+          "source": "GitHub",
+          "author": "Emma Watson",
+          "title": "Open source AI agent framework - $15K/mo via enterprise",
+          "income": 15000,
+          "period": "monthly",
+          "business_model": "Open source + Enterprise support",
+          "tech_stack": "Python + PyTorch + Docker",
+          "time_to_revenue": "8 months",
+          "key_factors": [
+            "Open source strategy",
+            "Twitter presence",
+            "Conference talks"
+          ],
+          "url": "https://github.com/emmajane/ai-agent",
+          "date": "2024-02-05"
+        }
+      ]
+    },
+    "tech_stack": {
+      "Next.js": [
+        {
+          "source": "Twitter/X",
+          "author": "@levelsio",
+          "title": "Building AI tools with $0 marketing spend",
+          "income": 85000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "Next.js + OpenAI API",
+          "time_to_revenue": "3 months",
+          "key_factors": [
+            "SEO",
+            "Product Hunt launch",
+            "Twitter audience"
+          ],
+          "url": "https://twitter.com/levelsio/status/xxx",
+          "date": "2024-01-15"
+        }
+      ],
+      "Python": [
+        {
+          "source": "Indie Hackers",
+          "author": "Sarah Chen",
+          "title": "AI writing assistant that makes $12K/mo",
+          "income": 12000,
+          "period": "monthly",
+          "business_model": "Freemium + Premium",
+          "tech_stack": "Python + LangChain + Stripe",
+          "time_to_revenue": "2 months",
+          "key_factors": [
+            "Niche focus",
+            "Reddit marketing",
+            "Product led growth"
+          ],
+          "url": "https://www.indiehackers.com/post/xxx",
+          "date": "2024-01-20"
+        },
+        {
+          "source": "GitHub",
+          "author": "Emma Watson",
+          "title": "Open source AI agent framework - $15K/mo via enterprise",
+          "income": 15000,
+          "period": "monthly",
+          "business_model": "Open source + Enterprise support",
+          "tech_stack": "Python + PyTorch + Docker",
+          "time_to_revenue": "8 months",
+          "key_factors": [
+            "Open source strategy",
+            "Twitter presence",
+            "Conference talks"
+          ],
+          "url": "https://github.com/emmajane/ai-agent",
+          "date": "2024-02-05"
+        }
+      ],
+      "TypeScript": [
+        {
+          "source": "Product Hunt",
+          "author": "Mike Zhang",
+          "title": "AI code reviewer - $25K MRR in 4 months",
+          "income": 25000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "TypeScript + Claude API + Vercel",
+          "time_to_revenue": "4 months",
+          "key_factors": [
+            "Developer tool focus",
+            "Hacker News launch",
+            "Affiliate program"
+          ],
+          "url": "https://producthunt.com/products/xxx",
+          "date": "2024-01-25"
+        }
+      ],
+      "React": [
+        {
+          "source": "Newsletter",
+          "author": "Alex Rivera",
+          "title": "AI image generator prompts marketplace",
+          "income": 18000,
+          "period": "monthly",
+          "business_model": "Marketplace commission",
+          "tech_stack": "React + Midjourney API + Supabase",
+          "time_to_revenue": "5 months",
+          "key_factors": [
+            "Creator economy",
+            "Community building",
+            "Viral loops"
+          ],
+          "url": "https://newsletter.example.com/ai-prompts",
+          "date": "2024-01-28"
+        }
+      ],
+      "Video production": [
+        {
+          "source": "YouTube",
+          "author": "Dev Jake",
+          "title": "From $0 to $50K with AI coding course",
+          "income": 50000,
+          "period": "monthly",
+          "business_model": "Digital products",
+          "tech_stack": "Video production + Teachable",
+          "time_to_revenue": "6 months",
+          "key_factors": [
+            "YouTube content",
+            "Course platform",
+            "Email list"
+          ],
+          "url": "https://youtube.com/@devjake",
+          "date": "2024-02-01"
+        }
+      ]
+    },
+    "marketing_channels": {
+      "SEO": [
+        {
+          "source": "Twitter/X",
+          "author": "@levelsio",
+          "title": "Building AI tools with $0 marketing spend",
+          "income": 85000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "Next.js + OpenAI API",
+          "time_to_revenue": "3 months",
+          "key_factors": [
+            "SEO",
+            "Product Hunt launch",
+            "Twitter audience"
+          ],
+          "url": "https://twitter.com/levelsio/status/xxx",
+          "date": "2024-01-15"
+        }
+      ],
+      "Product Hunt launch": [
+        {
+          "source": "Twitter/X",
+          "author": "@levelsio",
+          "title": "Building AI tools with $0 marketing spend",
+          "income": 85000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "Next.js + OpenAI API",
+          "time_to_revenue": "3 months",
+          "key_factors": [
+            "SEO",
+            "Product Hunt launch",
+            "Twitter audience"
+          ],
+          "url": "https://twitter.com/levelsio/status/xxx",
+          "date": "2024-01-15"
+        }
+      ],
+      "Twitter audience": [
+        {
+          "source": "Twitter/X",
+          "author": "@levelsio",
+          "title": "Building AI tools with $0 marketing spend",
+          "income": 85000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "Next.js + OpenAI API",
+          "time_to_revenue": "3 months",
+          "key_factors": [
+            "SEO",
+            "Product Hunt launch",
+            "Twitter audience"
+          ],
+          "url": "https://twitter.com/levelsio/status/xxx",
+          "date": "2024-01-15"
+        }
+      ],
+      "Niche focus": [
+        {
+          "source": "Indie Hackers",
+          "author": "Sarah Chen",
+          "title": "AI writing assistant that makes $12K/mo",
+          "income": 12000,
+          "period": "monthly",
+          "business_model": "Freemium + Premium",
+          "tech_stack": "Python + LangChain + Stripe",
+          "time_to_revenue": "2 months",
+          "key_factors": [
+            "Niche focus",
+            "Reddit marketing",
+            "Product led growth"
+          ],
+          "url": "https://www.indiehackers.com/post/xxx",
+          "date": "2024-01-20"
+        }
+      ],
+      "Reddit marketing": [
+        {
+          "source": "Indie Hackers",
+          "author": "Sarah Chen",
+          "title": "AI writing assistant that makes $12K/mo",
+          "income": 12000,
+          "period": "monthly",
+          "business_model": "Freemium + Premium",
+          "tech_stack": "Python + LangChain + Stripe",
+          "time_to_revenue": "2 months",
+          "key_factors": [
+            "Niche focus",
+            "Reddit marketing",
+            "Product led growth"
+          ],
+          "url": "https://www.indiehackers.com/post/xxx",
+          "date": "2024-01-20"
+        }
+      ],
+      "Product led growth": [
+        {
+          "source": "Indie Hackers",
+          "author": "Sarah Chen",
+          "title": "AI writing assistant that makes $12K/mo",
+          "income": 12000,
+          "period": "monthly",
+          "business_model": "Freemium + Premium",
+          "tech_stack": "Python + LangChain + Stripe",
+          "time_to_revenue": "2 months",
+          "key_factors": [
+            "Niche focus",
+            "Reddit marketing",
+            "Product led growth"
+          ],
+          "url": "https://www.indiehackers.com/post/xxx",
+          "date": "2024-01-20"
+        }
+      ],
+      "Developer tool focus": [
+        {
+          "source": "Product Hunt",
+          "author": "Mike Zhang",
+          "title": "AI code reviewer - $25K MRR in 4 months",
+          "income": 25000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "TypeScript + Claude API + Vercel",
+          "time_to_revenue": "4 months",
+          "key_factors": [
+            "Developer tool focus",
+            "Hacker News launch",
+            "Affiliate program"
+          ],
+          "url": "https://producthunt.com/products/xxx",
+          "date": "2024-01-25"
+        }
+      ],
+      "Hacker News launch": [
+        {
+          "source": "Product Hunt",
+          "author": "Mike Zhang",
+          "title": "AI code reviewer - $25K MRR in 4 months",
+          "income": 25000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "TypeScript + Claude API + Vercel",
+          "time_to_revenue": "4 months",
+          "key_factors": [
+            "Developer tool focus",
+            "Hacker News launch",
+            "Affiliate program"
+          ],
+          "url": "https://producthunt.com/products/xxx",
+          "date": "2024-01-25"
+        }
+      ],
+      "Affiliate program": [
+        {
+          "source": "Product Hunt",
+          "author": "Mike Zhang",
+          "title": "AI code reviewer - $25K MRR in 4 months",
+          "income": 25000,
+          "period": "monthly",
+          "business_model": "SaaS subscription",
+          "tech_stack": "TypeScript + Claude API + Vercel",
+          "time_to_revenue": "4 months",
+          "key_factors": [
+            "Developer tool focus",
+            "Hacker News launch",
+            "Affiliate program"
+          ],
+          "url": "https://producthunt.com/products/xxx",
+          "date": "2024-01-25"
+        }
+      ],
+      "Creator economy": [
+        {
+          "source": "Newsletter",
+          "author": "Alex Rivera",
+          "title": "AI image generator prompts marketplace",
+          "income": 18000,
+          "period": "monthly",
+          "business_model": "Marketplace commission",
+          "tech_stack": "React + Midjourney API + Supabase",
+          "time_to_revenue": "5 months",
+          "key_factors": [
+            "Creator economy",
+            "Community building",
+            "Viral loops"
+          ],
+          "url": "https://newsletter.example.com/ai-prompts",
+          "date": "2024-01-28"
+        }
+      ],
+      "Community building": [
+        {
+          "source": "Newsletter",
+          "author": "Alex Rivera",
+          "title": "AI image generator prompts marketplace",
+          "income": 18000,
+          "period": "monthly",
+          "business_model": "Marketplace commission",
+          "tech_stack": "React + Midjourney API + Supabase",
+          "time_to_revenue": "5 months",
+          "key_factors": [
+            "Creator economy",
+            "Community building",
+            "Viral loops"
+          ],
+          "url": "https://newsletter.example.com/ai-prompts",
+          "date": "2024-01-28"
+        }
+      ],
+      "Viral loops": [
+        {
+          "source": "Newsletter",
+          "author": "Alex Rivera",
+          "title": "AI image generator prompts marketplace",
+          "income": 18000,
+          "period": "monthly",
+          "business_model": "Marketplace commission",
+          "tech_stack": "React + Midjourney API + Supabase",
+          "time_to_revenue": "5 months",
+          "key_factors": [
+            "Creator economy",
+            "Community building",
+            "Viral loops"
+          ],
+          "url": "https://newsletter.example.com/ai-prompts",
+          "date": "2024-01-28"
+        }
+      ],
+      "YouTube content": [
+        {
+          "source": "YouTube",
+          "author": "Dev Jake",
+          "title": "From $0 to $50K with AI coding course",
+          "income": 50000,
+          "period": "monthly",
+          "business_model": "Digital products",
+          "tech_stack": "Video production + Teachable",
+          "time_to_revenue": "6 months",
+          "key_factors": [
+            "YouTube content",
+            "Course platform",
+            "Email list"
+          ],
+          "url": "https://youtube.com/@devjake",
+          "date": "2024-02-01"
+        }
+      ],
+      "Course platform": [
+        {
+          "source": "YouTube",
+          "author": "Dev Jake",
+          "title": "From $0 to $50K with AI coding course",
+          "income": 50000,
+          "period": "monthly",
+          "business_model": "Digital products",
+          "tech_stack": "Video production + Teachable",
+          "time_to_revenue": "6 months",
+          "key_factors": [
+            "YouTube content",
+            "Course platform",
+            "Email list"
+          ],
+          "url": "https://youtube.com/@devjake",
+          "date": "2024-02-01"
+        }
+      ],
+      "Email list": [
+        {
+          "source": "YouTube",
+          "author": "Dev Jake",
+          "title": "From $0 to $50K with AI coding course",
+          "income": 50000,
+          "period": "monthly",
+          "business_model": "Digital products",
+          "tech_stack": "Video production + Teachable",
+          "time_to_revenue": "6 months",
+          "key_factors": [
+            "YouTube content",
+            "Course platform",
+            "Email list"
+          ],
+          "url": "https://youtube.com/@devjake",
+          "date": "2024-02-01"
+        }
+      ],
+      "Open source strategy": [
+        {
+          "source": "GitHub",
+          "author": "Emma Watson",
+          "title": "Open source AI agent framework - $15K/mo via enterprise",
+          "income": 15000,
+          "period": "monthly",
+          "business_model": "Open source + Enterprise support",
+          "tech_stack": "Python + PyTorch + Docker",
+          "time_to_revenue": "8 months",
+          "key_factors": [
+            "Open source strategy",
+            "Twitter presence",
+            "Conference talks"
+          ],
+          "url": "https://github.com/emmajane/ai-agent",
+          "date": "2024-02-05"
+        }
+      ],
+      "Twitter presence": [
+        {
+          "source": "GitHub",
+          "author": "Emma Watson",
+          "title": "Open source AI agent framework - $15K/mo via enterprise",
+          "income": 15000,
+          "period": "monthly",
+          "business_model": "Open source + Enterprise support",
+          "tech_stack": "Python + PyTorch + Docker",
+          "time_to_revenue": "8 months",
+          "key_factors": [
+            "Open source strategy",
+            "Twitter presence",
+            "Conference talks"
+          ],
+          "url": "https://github.com/emmajane/ai-agent",
+          "date": "2024-02-05"
+        }
+      ],
+      "Conference talks": [
+        {
+          "source": "GitHub",
+          "author": "Emma Watson",
+          "title": "Open source AI agent framework - $15K/mo via enterprise",
+          "income": 15000,
+          "period": "monthly",
+          "business_model": "Open source + Enterprise support",
+          "tech_stack": "Python + PyTorch + Docker",
+          "time_to_revenue": "8 months",
+          "key_factors": [
+            "Open source strategy",
+            "Twitter presence",
+            "Conference talks"
+          ],
+          "url": "https://github.com/emmajane/ai-agent",
+          "date": "2024-02-05"
+        }
+      ]
+    },
+    "time_to_revenue": [
+      3,
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "income_brackets": {
+      ">$50K": 2,
+      "$10K-$25K": 3,
+      "$25K-$50K": 1
+    }
+  },
+  "ideas": [
+    {
+      "title": "AI Niche SaaS工具",
+      "description": "选择一个细分领域（如AI合同审查、AI食谱生成）",
+      "action_steps": [
+        "研究细分市场痛点",
+        "使用OpenAI/Claude API快速原型",
+        "在Product Hunt发布",
+        "建立SEO内容引流"
+      ],
+      "estimated_cost": "$100-500/月",
+      "time_to_launch": "2-4周",
+      "success_probability": "中",
+      "based_on": "@levelsio"
+    },
+    {
+      "title": "AI提示词市场",
+      "description": "创建垂直领域提示词交易平台",
+      "action_steps": [
+        "选择一个热门领域（设计/编程/写作）",
+        "构建提示词库和交易系统",
+        "建立创作者社区",
+        "实施分成模式"
+      ],
+      "estimated_cost": "$200-1000/月",
+      "time_to_launch": "1-2月",
+      "success_probability": "中",
+      "based_on": "Alex Rivera"
+    },
+    {
+      "title": "AI开发者工具",
+      "description": "构建面向开发者的AI辅助工具",
+      "action_steps": [
+        "瞄准开发者痛点（代码审查/文档生成）",
+        "开源核心代码建立影响力",
+        "提供托管服务盈利",
+        "建立企业客户群"
+      ],
+      "estimated_cost": "$500-2000/月",
+      "time_to_launch": "2-3月",
+      "success_probability": "中高",
+      "based_on": "Mike Zhang"
+    },
+    {
+      "title": "AI课程产品",
+      "description": "制作AI工具使用教程",
+      "action_steps": [
+        "选择一个自己有专长的AI工具",
+        "制作系统化视频课程",
+        "在YouTube建立观众",
+        "引导至付费课程"
+      ],
+      "estimated_cost": "$500-2000",
+      "time_to_launch": "1-2月",
+      "success_probability": "中高",
+      "based_on": "Dev Jake"
+    },
+    {
+      "title": "AI代理服务",
+      "description": "提供定制化AI代理解决方案",
+      "action_steps": [
+        "确定一个行业垂直场景",
+        "构建可复用的代理框架",
+        "获取首批付费客户",
+        "建立案例和口碑"
+      ],
+      "estimated_cost": "$300-1000/月",
+      "time_to_launch": "1-3周",
+      "success_probability": "高",
+      "based_on": "Emma Watson"
+    }
+  ],
+  "timestamp": "2026-02-02T00:18:03.915264"
+}
